@@ -12,3 +12,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
+
+//깃 모르는 사람은 이런식으로 걍 복붙하면 됨
